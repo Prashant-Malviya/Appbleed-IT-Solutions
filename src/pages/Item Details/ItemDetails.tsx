@@ -57,9 +57,10 @@ export const ItemDetails: React.FC = () => {
   return (
     <Container size="sm" py="xl" style={{
       position:"relative",
-      top:"8rem"
+      top:"8rem",
+      minHeight:"100vh"
     }}>
-      <Paper withBorder radius="md" className={classes.card} p="xl">
+      <Paper withBorder radius="md"  className={classes.card} p="xl">
         <ThemeIcon
           size="xl"
           radius="md"
