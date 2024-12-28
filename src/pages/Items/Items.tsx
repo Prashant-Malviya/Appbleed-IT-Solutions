@@ -101,7 +101,7 @@ export const Items: React.FC = () => {
   return (
     <div style={{
       position:"relative",
-      top:"7rem"
+      top:"5rem"
     }}>
       <Container style={{
         display:"flex",
