@@ -101,7 +101,9 @@ export const Items: React.FC = () => {
   return (
     <div style={{
       position:"relative",
-      top:"5rem"
+      top:"5rem",
+      marginBottom:"6rem",
+      minHeight:"100vh"
     }}>
       <Container style={{
         display:"flex",

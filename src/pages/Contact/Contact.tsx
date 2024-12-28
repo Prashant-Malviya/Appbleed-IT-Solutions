@@ -20,8 +20,9 @@ export function Contact() {
     <Container
     style={{
       width: "1/2",
+      height: "100vh",
       position:"relative",
-      top:"8rem"
+      top:"8rem",
     }}
     >
     <form onSubmit={form.onSubmit(() => {})}>
