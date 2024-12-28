@@ -43,7 +43,7 @@ export function HomePage() {
               IT Solutions Provider
             </Title>
 
-            <Text className={classes.description} mt={30} size='2rem'>
+            <Text className={classes.description} mt={30} size='1.7rem'>
             We Provide Outsourced It Services For Small And Mid-sized Businesses. <br />
             To Know More About Us Please Visit Us @ <Anchor href='https://appbleed.com/' target='_blank' style={{
               textDecoration:"none"
