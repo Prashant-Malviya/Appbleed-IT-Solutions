@@ -25,7 +25,7 @@ export function HomePage() {
       <Container size="lg"
       style={{
         position: "relative",
-        top:"10rem"
+        top:"8rem"
       }}
       >
         <div className={classes.inner}>
